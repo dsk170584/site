@@ -1,0 +1,28 @@
+body {
+    background-color: antiquewhite;
+}
+
+.nav {
+    background-color: rgb(209, 160, 86);
+    border: solid 1px black;
+}
+
+.navbar {
+    border: solid 1px black;
+}
+
+.menu1 {
+    border: solid 1px black;
+    height: auto;
+}
+
+.main {
+    border: solid 1px black;
+    height: auto;
+    text-align: justify;
+}
+.bg {
+    background-color: #42dd3f;
+}
+
+
